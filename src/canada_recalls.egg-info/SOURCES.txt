@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/canada_recalls/__init__.py
+src/canada_recalls/utils.py
+src/canada_recalls.egg-info/PKG-INFO
+src/canada_recalls.egg-info/SOURCES.txt
+src/canada_recalls.egg-info/dependency_links.txt
+src/canada_recalls.egg-info/top_level.txt

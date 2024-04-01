@@ -1,0 +1,25 @@
+
+[build-system]
+requires = ["setuptools>=61.0",
+             'pandas>=2.2.1',
+             'numpy>=1.26.4',
+             'requests>=2.31.0' ]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "canada_recalls"
+version = "0.0.1"
+authors = [
+  { name="Thomas Cole", email="thomaswcole1@gmail.com" },
+]
+
+description = "API wrapped for Canadian Auto Recalls"
+readme = "README.md"
+requires-python = ">=3.8"
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
